@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">My Reader</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello">Simple and Intuitive</string>
+    <string name="started">Start Now</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_controle_geral">ControleGeralActivity</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
